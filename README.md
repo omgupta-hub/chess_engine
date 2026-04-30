@@ -189,9 +189,8 @@ ChessEngine.py
 
 ## 👤 Author
 
-**[Your Name]**
-[Your College / Institution]
-[Your GitHub Profile Link]
+Om Gupta & Karan Verma
+https://github.com/omgupta-hub
 
 ---
 
